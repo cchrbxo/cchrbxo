@@ -3,7 +3,7 @@
 ```Hello, It's newbie here```
  
  
-![default]()
+![default](KakaoTalk_20220920_102621923.png)
 
 
 ## Introduce
