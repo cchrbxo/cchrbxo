@@ -22,23 +22,15 @@
 
 #### Java
 
-> Win-win 기업용 채용 웹사이트 솔루션 // https://github.com/dhkim92/winwin
+> 자바 팀프로젝트 (스마트 워치) // https://github.com/cchrbxo/2-WDA-TeamProject
 
-> Zaksim 작심삼십일 도전 도우미 웹사이트 // https://github.com/ksj71816/ZakSim
 
-> Zipdle(집들이) 인테리어 중개사이트 // https://github.com/dhkim92/zipdle
+#### JSP
 
-> THRMS 자바스윙 병원 예약프로그램 // https://github.com/dhkim92/THRMS
-
-#### node.js
-
-> webOS 기반 화재 대피 안내시스템 // https://github.com/bClass1234/fireEvacuationSystem
+> 팀프로젝트 // https://github.com/ooyniz/4OREVER
 
   ``` 제 12회 공개소프트웨어 개발자대회 본선진출작 ```
 
 ## Activity
-* 강원대학교(춘천) 컴퓨터과학과 전공
-* 정보처리기사
-* 중학생 코딩과외(엔트리)
-* kh정보교육원 [NCS] 응용엔지니어 JAVA 개발자 과정 수료
-* 제 12회 공개소프트웨어 개발자대회 참여, 팀명 : B CLASS
+* 영진전문대학교(컴퓨터 정보계열) 웹데이터베이스 전공
+
