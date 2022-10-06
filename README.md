@@ -1,17 +1,17 @@
-# 더 편리한 세상 만들기, 개발자 김동현입니다!  
+# 개발자 조규태입니다!  
 
 ```Hello, It's newbie here```
  
  
-![default](https://user-images.githubusercontent.com/41541789/48941205-ee12b300-ef5d-11e8-8a50-07e531ff3d7d.jpg)
+![default]()
 
 
 ## Introduce
-* Name : 김동현
-* Birth : 1992.12.02
-* Address : 경기도 구리시 이문안로
-* E-mail : dhkim9294@gmail.com
-* Github : dhkim92 
+* Name : 조규태
+* Birth : 1999.09.03
+* Address : 대구광역시 북구 복현로
+* E-mail : cgt@kakao.com
+* Github : cchrbxo
 
 ``` 
 수학을 좋아하던 평범한 고등학생이 input, output이 뚜렷한 개발에 빠지게 되어 지금까지.
