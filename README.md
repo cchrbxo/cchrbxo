@@ -5,7 +5,7 @@
 
 _개발자가 되고 싶은 1999년생 대학생입니다 😊_
 ***
-![cchrbxo's github stats](https://github-readme-stats.vercel.app/api?username=da-pri&show_icons=true)
+![cchrbxo's github stats](https://github-readme-stats.vercel.app/api?username=cchrbxo&show_icons=true)
 [![cchrbxo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=da-pri&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cchrbxo)
 <h1>✨Tech Stack</h1>
 <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white">
