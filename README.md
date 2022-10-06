@@ -2,7 +2,7 @@
 
  
  
-![default](KakaoTalk_20220920_102621923.png)
+![default](이모지.png)
 
 
 ## Introduce
